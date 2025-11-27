@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Siam"> 
+    <meta name="description" content="TasteHub - Explore our mouth-watering 
+restaurant menu with starters, main course, desserts, and drinks.">
+    <title>TestHub Restaurant Menu</title>
+</head>
+<body>
+    <header>
+        <h1> TasteHub Restaurant</h1>
+        <p>Deliciousness Delivered Fresh Everyay</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#starters">Starters</a></li>
+            <li><a href="#main-course">Main Course</a></li>
+            <li><a href="#desserts">Desserts</a></li>
+            <li><a href="#drinks">Drinks</a></li>
+        </ul>
+    </nav>
+    <main>
+        <fieldset>
+            <legend>Chef's Special</legend>
+            <strong>Grilled Salmon Fillet</strong>
+            <p>Fresh ocean salmon with lemon butter sauce and seasonal vegetables</p>
+            <p>Price: $28.99</p>
+            <br>
+            <strong>Ribeye Steak</strong>
+            <p>Juicy 12oz ribeye cooked to perfection with garlic mashed potatoes</p>
+            <p>Price: $34.99</p>
+            <br>
+            <strong>Vegetarian Pasta Primavera</strong>
+            <p>Penne pasta with fresh vegetables in a light garlic and olive oil sauce</p>
+            <p>Price: $18.99</p>
+            <br>
+
+        </fieldset>
+
+        <hr>
+
+        <section>
+            <h3>Starters</h3>
+            <ul>
+                <li>Bruschetta - Grilled bread topped with fresh tomatoes, basil, and olive oil. ($8.99)</li>
+                <li>Caesar Salad - Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan cheese. ($9.99)</li>
+                <li>Stuffed Mushrooms - Mushrooms filled with a savory mixture of cheese and herbs. ($10.99)</li>
+            </ul>
+        </section>
+            <hr>
+        <section>
+            <h3>Main Course</h3>
+            <ul>
+                <li>Grilled Chicken Breast - Served with roasted vegetables and mashed potatoes. ($16.99)</li>
+                <li>Spaghetti Bolognese - Classic Italian pasta with rich meat sauce. ($14.99)</li>
+                <li>Vegetable Stir-Fry - Mixed vegetables sautéed in a tangy sauce, served with rice. ($13.99)</li>
+            </ul>
+        </section>
+        <hr>
+        <section>
+            <h3>Desserts</h3>
+            <ul>
+                <li>Cheesecake - Creamy cheesecake with a graham cracker crust and strawberry topping. ($7.99)</li>
+                <li>Tiramisu - Layered Italian dessert with coffee-soaked ladyfingers and mascarpone cheese. ($8.99)</li>
+                <li>Chocolate Lava Cake - Warm chocolate cake with a gooey molten center, served with vanilla ice cream. ($9.99)</li>
+            </ul>
+        </section>
+        <hr>
+        <section>
+            <h3>Drinks</h3>
+            <ul>
+                <li>Fresh Lemonade - Made with freshly squeezed lemons and a touch of sweetness. ($3.99)</li>
+                <li>Iced Tea - Refreshing black tea served over ice with lemon. ($2.99)</li>
+                <li>Cappuccino - Espresso topped with steamed milk and a sprinkle of cocoa powder. ($4.99)</li>
+            </ul>
+
+        </section>
+
+    </main>    
+
+    <footer>
+        <hr>
+        <h3>Contact Us</h3>
+        <p><b>Phone:</b> 123456789</p>
+        <p><b>Email:</b>tastehub@gmail.com</p>
+        <p><b>Address</b> Dhaka, Bangladesh</p>
+        <p>&copy; 2024 TasteHub Restaurant. All rights reserved.</p>
+</body>
+</html>
