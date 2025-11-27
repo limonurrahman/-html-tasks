@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Admission Form</title>
+
+    <link rel="stylesheet" href="style.css">
+        
+</head>
+<body>
+    <h2> American International University-Bangladesh</h2>
+    <h3> University Admission Form</h3>
+    <form action="/submit_admission" method="post">
+        <label for="fullName">Full Name:</label><br>
+        <input type="text" id="fullName" name="fullName" required><br><br>
+        <label for="dob">Date of Birth:</label><br>
+        <input type="date" id="dob" name="dob" required><br><br>
+        <input type="radio" id="male" name="gender" value="male" required>
+        <label for="male"> Male</label><br>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female"> Female</label><br>  
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="phone">Phone Number:</label><br>
+        <input type="number" id="phone" name="phone" required min="11" max="11"><br><br>
+        <label for="Present address">Present Address:</label><br>
+        <textarea id="Present address" name="Present address" rows="1" cols="70" required></textarea><br><br>
+        <label for="Permanent address">Permanent Address:</label><br>
+        <textarea id="Permanent address" name="Permanent address" rows="1" cols="70" required></textarea><br><br>
+        <label for="country">Country of Citizenship:</label><br>
+        <select id="country" name="country" required>
+            <option value="">Select your country</option>
+            <option value="bangladesh">Bangladesh</option>
+            <option value="india">India</option>
+            <option value="pakistan">Pakistan</option>
+            <option value="srilanka">Sri Lanka</option>
+            <option value="other">Other</option>
+        </select><br><br>
+        <label for="program">Program Applying For:</label><br>
+        <select id="program" name="program" required>
+            <option value="">Select a program</option>
+            <option value="bsc_cs">BSc in Computer Science</option>
+            <option value="bsc_ee">BSc in Electrical Engineering</option>
+            <option value="bsc_ba">BSc in Business Administration</option>
+            <option value="bba">BBA</option>
+            <option value="mba">MBA</option>
+        </select><br><br>
+
+        <h3>Educational Background</h3>
+
+        <label for="College">College Name:</label><br>
+        <input type="text" id="College" name="College" required><br><br>  
+        <label for ="graduationYear">Year of Graduation:</label><br>
+        <input type="date" id="graduationYear" name="graduationYear" min="2000" max="2025" required><br><br>
+        <label for="HSC">HSC GPA:</label><br>
+        <input type="number" id="CollegeGPA" name="CollegeGPA" step="0.01" min="0" max="5" required><br><br>
+        <label for="School">School Name:</label><br>
+        <input type ="text" id="School" name="School" required><br><br>
+        <label for ="SSCgraduationYear">Year of Graduation:</label><br>
+        <input type="date" id="SSCgraduationYear" name="SSCgraduationYear" min="2000" max="2025" required><br><br>
+        <label for="SSC">SSC GPA:</label><br>  
+        <input type="number" id="SchoolGPA" name="SchoolGPA" step="0.01" min="0" max="5" required><br><br>
+        <h3>Upload Documents</h3>
+        <label for ="Photo"> Photo:</label><br>
+        <input type="file" id="Photo" name="Photo" accept=".jpg,.jpeg" required><br><br>
+        <label for ="Transcript"> Transcript:</label><br>
+        <input type="file" id="transcript" name="transcript" accept=".pdf,.doc,.docx" required><br><br>
+        <input type="file" id="transcript2" name="transcript2" accept=".pdf,.doc,.docx"><br><br>
+        <br>
+        <br>
+        
+
+        <input type="submit" id="submit"value="Submit Application">
+        <input type="reset" id= "reset" value="Reset Form">
+    </form>
+        
+
+    
+</body>
+</html>
