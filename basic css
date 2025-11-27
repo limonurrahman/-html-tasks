@@ -1,0 +1,45 @@
+  body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 50px;
+            padding: 20px;
+            background-color: white;
+            background-image: url('https://upload.wikimedia.org/wikipedia/en/8/8c/American_International_University-Bangladesh_Monogram.svg');
+            background-repeat: no-repeat;
+            background-size: 80px 80px;
+            background-position: center top;
+        }
+        h2 {
+            text-align: center;
+            color: black;
+        } 
+        h3 {
+            text-align: center;
+            color: gray;
+        }
+      #fullName,#dob,#email,#phone,#Present address,
+      #Permanent address,#country,#program,#College,
+      #graduationYear,#CollegeGPA,#School,#SSCgraduationYear,
+      #SchoolGPA
+         {
+            width: 50%;
+            padding: 8px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: 2px solid gray;
+            border-radius: 4px;
+        }  
+    
+    #Photo,#transcript,#transcript2
+        {
+            border: 2px solid gray;
+            border-radius: 4px;
+            padding: 5px;
+        }
+
+    #submit, #reset
+        {
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
