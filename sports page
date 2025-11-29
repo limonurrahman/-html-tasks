@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="DailyFlash Development Team">
+    <meta name="description" content="DailyFlash - Breaking news and trending stories from around the world.">
+    <title>DailyFlash |- Home</title>
+</head>
+<body>
+    <header>
+        <img src="https://static.wixstatic.com/media/6f6a6b_4c27d7dd181d4ab3939a419577390411~mv2.png" width="80" height="80">
+        <h1>DailyFlash</h1>
+        <p>Your Source for Instant News</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html"><b>Home</b></a></li>
+            <li><a href="world.html">World</a></li>
+            <li><a href="sports.html">Sports</a></li>
+            <li><a href="#">Tech</a></li>
+            <li><a href="#">Lifestyle</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <fieldset>
+            <legend><h2><b>Sport News</b></h2></legend>
+            <article>
+                <img src="https://liveblog.digitalimages.sky/lc-images-sky/lcimg-a1d59528-02af-4878-bb22-1bc0bf75d6a9.jpeg" alt="News Image" width="200" height="150">
+                <h2>Arsenal vs Bayern Munich LIVE! Champions League match updates, news and score</h2>
+                <p>Arsenal take on Bayern Munich in the Champions League last 16 second leg at the Emirates
+                    Stadium on Wednesday night (kick-off 8pm UK time).
+                    The Gunners hold a slender 1-0 advantage from the first leg in Germany thanks to Gabriel
+                    Martinelli's early strike.
+                </p>
+                <a href="https://www.skysports.com/football/news/11945/13065993/arsenal-vs-bayern-munich-live-champions-league-match-updates-news-and-score">Read More</a>
+            </article>
+            <hr>
+            <article>
+                <img src="https://e0.365dm.com/25/11/1600x900/skysports-f1-mclaren_7089531.jpg?20251123114920" alt="News Image" width="200" height="150">
+                <h2>F1 title race: What factors will decide the championship between Lando Norris, Oscar Piastri and Max Verstappen?</h2>
+                <p>The Formula 1 title race is finely poised heading into the final stages of the 2025 season, with
+                    Lando Norris, Oscar Piastri and Max Verstappen all in contention for the championship.
+                    As the season approaches its climax, several key factors will play a crucial role in determining
+                    who ultimately claims the coveted title.
+                </p>
+                <a href="https://www.skysports.com/f1/news/12433/13065992/f1-title-race-what-factors-will-decide-the-championship-between-lando-norris-oscar-piastri-and-max-verstappen">Read More</a>
+            </article>
+    </main>
+    <aside>
+        <fieldset>
+            <legend><h2><b>Top Headline</b> </h2></legend>
+            <ul>
+                <li><a href="https://www.skysports.com/f1/news/12433/13475798/adrian-newey-aston-martin-name-legendary-designer-as-new-f1-team-principal-from-2026-season-replacing-andy-cowell">Newey to become Aston Martin team boss in 2026</a>
+                </li>
+                <li><a href="https://www.skysports.com/darts/news/12040/13475673/world-darts-championship-2026-schedule-fixtures-and-results-from-alexandra-palace-with-luke-littler-beau-greaves-michael-van-gerwen-in-action">World Darts Championship schedule revealed as Little headlines openingg night</a>
+                </li>
+
+            </ul>
+        </fieldset>
+    </aside>
+     <footer>
+        <hr>
+        <p>&copy; 2025 DailyFlash. All Rights Reserved.</p>
+
+        <h4>Follow Us</h4>
+        <ul>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">X (Twitter)</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">LinkedIn</a></li>
+        </ul>
+
+    
+</body>
+</html>
