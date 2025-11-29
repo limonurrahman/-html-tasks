@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="DailyFlash Development Team">
+    <meta name="description" content="DailyFlash - Breaking news and trending stories from around the world.">
+    <title>DailyFlash |- Home</title>
+</head>
+<body>
+    <header>
+        <img src="https://static.wixstatic.com/media/6f6a6b_4c27d7dd181d4ab3939a419577390411~mv2.png" width="80" height="80">
+        <h1>DailyFlash</h1>
+        <p>Your Source for Instant News</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html"><b>Home</b></a></li>
+            <li><a href="world.html">World</a></li>
+            <li><a href="sports.html">Sports</a></li>
+            <li><a href="#">Tech</a></li>
+            <li><a href="#">Lifestyle</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <fieldset>
+            <legend><h2><b>Bangladesh's Latest News</b></h2></legend>
+            <article>
+                <img src="https://tds-images.thedailystar.net/sites/default/files/styles/medium_201/public/images/2025/11/26/ezgif.com-avif-to-png-converter_42.png" alt="News Image" width="200" height="150">
+                <h2>832 bhori gold doesn't belong to Hasina alone: ACC</h2>
+                <p>The Anti-Corruption Commission (ACC) yesterday told the High Court that the 832 bhori gold
+                    recovered from a secret vault in London does not belong to Prime Minister Sheikh Hasina alone
+                    as it was purchased through collective funds.</p>
+                    <label for =""dob"></label>
+                <a href="https://www.thedailystar.net/news/bangladesh/news/832-bhori-gold-doesnt-belong-hasina-alone-acc-3276771">Read More</a>
+            </article>
+            <hr>
+            <article>
+                <img src="https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/12/03/law_ministry.jpg" alt="News Image" width="200" height="150">
+                <h2>Major reshuffle ahead of election: Govt promotes, transfer 826 judges in a single day</h2>
+                <p>In a significant move ahead of the upcoming national elections, the government has
+                    orchestrated a major reshuffle within the judiciary by promoting and transferring a total
+                    of 826 judges in a single day. This unprecedented action aims to enhance the efficiency and
+                    effectiveness of the judicial system across the country.</p>
+                <a href="https://www.thedailystar.net/news/bangladesh/news/major-reshuffle-ahead-election-govt-promotes-transfer-826-judges-single-day-3276561">Read More</a>
+            </article>
+            <hr>
+            <article>
+                <img src="https://tds-images.thedailystar.net/sites/default/files/styles/big_201/public/media/api_images/2025/11/26/Victim%20of%20fire%20again%20and%20again%20_a799_5.jpg" alt="News Image" width="200" height="150">
+                <h2>‘How many times can we start over?’ Ashes, debt, and fragile hope in</h2>
+                <p>On early November 26, Mohammad Ismail, a 50-year-old day labourer, wandered helplessly near the fire-ravaged Korail slum, with a single suitcase balanced on his head. The suitcase held the last of his belongings -- some clothes and a few utensils salvaged from his burning home. Everything else had turned to ashes.
+                    Ismail doesn't know what tomorrow</p>
+                <a href="https://www.thedailystar.net/news/bangladesh/news/how-many-times-can-we-start-over-ashes-debt-and-fragile-hope-3276341">Read More</a>
+            </article>
+        </fieldset>
+
+    </main>
+    <aside>
+        <fieldset>
+        <legend><h3>Top Headlines</h3></legend>
+        <ul>
+            <li><a href="https://unb.com.bd/category/Bangladesh/left-with-ashes-korail-families-lose-everything-in-devastating-fire/173896">Korail
+                    slum fire razes 1,500 homes, families devastated</a></li>
+                    <br>
+            <li><a href="https://unb.com.bd/category/Bangladesh/delhi-examining-request-for-hasinas-extradition-dhaka-expects-response/173888">India
+                    reviews extradition request for Hasina; Bangladesh awaits reply</a></li>
+                    <br>
+            <li><a href="https://unb.com.bd/category/Bangladesh/bangladesh-bank-imposes-restrictions-on-foreign-travel-for-bank-officials-ahead-of-national-polls/173893">Bangladesh
+                    Bank limits foreign travel for officials before elections</a></li>
+                    <br>
+            <li><a href="https://unb.com.bd/category/Bangladesh/court-fixes-march-3-for-submission-of-investigation-report-against-shakib-al-hasan-14-others/173902">Court
+                    sets March 3 deadline for Shakib Al Hasan investigation report</a></li>
+                    <br>
+            <li><a href="https://unb.com.bd/category/Sports/fifa-tweaks-world-cup-draw-to-keep-top-teams-apart-until-semifinals/173899">FIFA
+                    adjusts World Cup draw to separate top teams until semis</a></li>
+                    <br>
+        </ul>
+        </fieldset>
+    </aside>
+
+    <footer>
+        <hr>
+        <p>&copy; 2025 DailyFlash. All Rights Reserved.</p>
+
+        <h4>Follow Us</h4>
+        <ul>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">X (Twitter)</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">LinkedIn</a></li>
+        </ul>
+</body>
